@@ -37,6 +37,8 @@ jest pieces.test
 jest piece.test
 ```
 
+Start with the pieces.test file.
+
 To make it even more controllable, you can run one and one test inside
 a test file by adding a .only behind the it, describe, or test functions.
 
