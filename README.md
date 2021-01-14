@@ -1,7 +1,8 @@
 # Trailguide code training camp and playground
 
 ```
-https://github.com/bjornkvande/trailguide.git
+git clone https://github.com/bjornkvande/playground.git
+cd playground
 npm install
 npm i -g jest
 ```
