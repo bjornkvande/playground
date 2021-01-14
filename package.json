@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Trailguide Javascript Playground",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Bjørn Jarle Kvande",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.6",
+    "eslint": "^7.17.0",
+    "jest": "^26.6.3"
+  }
+}
