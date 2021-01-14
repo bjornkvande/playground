@@ -1,6 +1,4 @@
-# Trailguide Coding Playground
-
-## Setup
+# Trailguide coding training camp and playground
 
 ```
 https://github.com/bjornkvande/trailguide.git
@@ -8,7 +6,7 @@ npm install
 npm i -g jest
 ```
 
-## Run the tests
+### Run the tests
 
 ```
 jest
@@ -26,7 +24,7 @@ They should fail miserably
       75 |   ]);
 ```
 
-## Make the tests run
+### Make the tests run
 
 Implement the code in the pieces.js and piece.js files and make the tests
 run properly.
@@ -39,7 +37,7 @@ jest piece.test
 ```
 
 To make it even more controllable, you can run one and one test inside
-a test file
+a test file by adding a .only behind the it, describe, or test functions.
 
 ```
 test.only('J should be the correct shape', () => {
