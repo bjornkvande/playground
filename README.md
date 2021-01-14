@@ -1,4 +1,4 @@
-# Trailguide coding training camp and playground
+# Trailguide code training camp and playground
 
 ```
 https://github.com/bjornkvande/trailguide.git
